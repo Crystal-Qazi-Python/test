@@ -1,1 +1,3 @@
-lklk
+revert back to branch state
+git fetch origin
+git reset --hard/origin
